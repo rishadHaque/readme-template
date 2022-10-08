@@ -1,2 +1,5 @@
-# My Name is Rishad Haque Hriday  
-## I am from North SOuth University
+## Personal Information  
+---  
+| Name | : | Rishad Haque Hriday |  
+| University | : | North South University |  
+| Mobile | : | +8801717607343 |
