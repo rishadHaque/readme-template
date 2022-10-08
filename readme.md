@@ -2,7 +2,6 @@
 ---  
 | Name | Rishad Haque Hriday |  
 | ----- | ------ |
-| University | North South University |  
-| ----- | -------- |
-| Mobile | +8801717607343 |  
-| ----- | --------- |
+| __University__ | North South University |  
+| __Mobile__ | +8801717607343 |  
+
